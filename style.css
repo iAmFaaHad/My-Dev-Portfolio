@@ -1,0 +1,34 @@
+body{
+    font-family: 'Merriweather', serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.Jolo-Purple{
+    color: rgb(240, 74, 240);
+}
+section{
+    display: flex;
+}
+.fulo{
+   width: 60%;
+   padding-left: 3%;
+   padding-right: 5%;
+  
+}
+.fulo img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange , tomato);
+    font-weight: 750;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+}
+.top{
+    background-image: url(  images/top-banner.png);
+background-repeat: no-repeat;
+}
