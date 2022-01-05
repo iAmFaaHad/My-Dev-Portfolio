@@ -19,6 +19,7 @@ section{
 }
 .fulo img{
     width: 70%;
+    float: right;
 }
 .link-button{
     text-decoration: none;
